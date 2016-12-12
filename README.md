@@ -91,4 +91,4 @@ Oh boy you're developer/engineer friend is not going to like this but at the tim
 
 
 ### Notes
-* Found this repo name offensive and misleading relative to the designer working class? Shoot me a tweet, I might read it while taking a big dump.
+* Found this repo name offensive and misleading relative to the designer working class? Shoot me a tweet, I might read it while taking a big `rake db:dump` 😎.
