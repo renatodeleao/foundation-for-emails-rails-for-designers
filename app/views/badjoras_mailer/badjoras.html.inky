@@ -1,0 +1,8 @@
+<container>
+	<!-- header partial located at ./app/views/badjoras_mailer/ -->
+	<%= render partial: 'badjoras_header' %>
+	<row>
+	  	<columns large="6"><h1 class="u-color-brand">Hello</h1></columns>
+	  	<columns large="6"><%= @name %> to Foundation Badjoras</columns>
+	</row>
+</container>
